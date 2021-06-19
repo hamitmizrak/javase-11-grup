@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Ornekler_006_Sifre {
 	public static void main(String[] args) {
 		String password1, password2;
+
 		Scanner klavye = new Scanner(System.in);
 
 		System.out.println("Lütfen giriniz giriniz");
