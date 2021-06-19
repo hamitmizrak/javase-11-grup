@@ -22,7 +22,7 @@ public class Ders_014_Birlestirme {
 		// 4.yöntem (StringBuilder)
 		// StringBuilder: Gelenveri ne olduğunu bilmiyorsak yani String mi,sayı mı v.s
 		// StringBuilder: daha hızlıdır
-		// javaLang kütüphanesini çağırmamız lazım
+		// java.lang.StringBuilder kütüphanesini çağırmamız lazım
 		StringBuilder stringBuilder = new StringBuilder();
 		stringBuilder.append("Java").append(" Jsp").append(" JSF");
 		String cevir = stringBuilder.toString();
