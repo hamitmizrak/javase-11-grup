@@ -1,9 +1,13 @@
 package com.ecodation.ornekler;
 
 public class TryCatch {
-	try {
-		
-	} catch (Exception e) {
-		e.printStackTrace();
+
+	public static void main(String[] args) {
+		try {
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
+
 }
