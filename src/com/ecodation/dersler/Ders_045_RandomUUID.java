@@ -2,7 +2,7 @@ package com.ecodation.dersler;
 
 import java.util.Arrays;
 
-public class Ders_044_Arrays {
+public class Ders_045_RandomUUID {
 
 	public static void main(String[] args) {
 		// java.util paketinden import ederiz.
